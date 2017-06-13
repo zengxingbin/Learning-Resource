@@ -1,2 +1,2 @@
 # Learning-Resource
-This repository will contains all kinds of learn in the next time
+This repository will contains all kinds of learning resource in the next time
